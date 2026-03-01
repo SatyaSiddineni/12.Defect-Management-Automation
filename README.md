@@ -78,14 +78,14 @@ Defect Management Automation
              │   
              ├── README.md
              ├── Documentation/
-             │     ├── In-Process Inspection for Production process Configuration.pdf     
-             │     └── In-Process Inspection for Production process Step by Step Transaction Execution.pdf
+             │     ├── Defect Management Automation Configuration.pdf     
+             │     └── Defect Management Automation Step by Step Transaction Execution.pdf
              │
              ├── Flowchart/
-             │     └── Flowchart.png
+             │     └── Defect Management Automation Flowchart.png
              │
              └── Test_Data/
-                   └── In-Process Inspection Sample test data.xlsx
+                   └── Defect Management Sample Test data.xlsx
 
 
 10. Roles & Responsibilities (SAP QM Functional Consultant)
