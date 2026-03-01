@@ -5,12 +5,35 @@ Defect Management Automation
 
             This project demonstrates an End-to-End Defect Management Automation process in SAP Quality Management (QM) integrated with Materials Management (MM) and Production Planning (PP).
 
-            The solution automates the lifecycle from defect identification during inspection processing to automatic Quality Notification creation, corrective action tracking, and structured closure.
+            It covers how defects identified during inspection are automatically recorded, processed, analyzed, and resolved using SAP QM configuration — without custom development.
 
-            It reflects a real-time manufacturing quality control scenario handled by an SAP QM Functional Consultant.
+            The objective of this project is to simulate a real-time business scenario where manufacturing defects are systematically managed to improve product quality, ensure compliance, and reduce manual                intervention.
+
+
+2. Business Scenario
+
+            A manufacturing organization faces recurring quality issues during:
+            
+                        Incoming raw material inspection
+                        In-process inspection
+                        Final goods inspection
+            
+            Manual defect recording leads to:
+            
+                        Delayed corrective actions
+                        Poor traceability
+                        Lack of analytical reporting
+            
+            To address this, SAP QM is configured to:
+            
+                        Automatically capture defects during results recording
+                        Trigger Quality Notifications
+                        Assign corrective actions
+                        Track root cause analysis
+                        Generate defect analytics reports
    
 
-2. How to Use This Repository  
+3. How to Use This Repository  
 
             Read the Business Scenario
             Review the Flowchart
@@ -19,7 +42,7 @@ Defect Management Automation
             Follow Step-by-Step Execution in SAP
 
 
-3. Business Scenario
+4. Business Scenario
 
             A manufacturing company receives defective raw materials from vendors and also detects in-process production defects.
 
@@ -38,7 +61,7 @@ Defect Management Automation
                         → Closure is monitored with proper approval
 
 
-4. End-to-End Process Flow
+5. End-to-End Process Flow
 
             Performing the GR / Production Confirmation
                         ↓
