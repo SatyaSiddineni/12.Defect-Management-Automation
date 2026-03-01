@@ -55,10 +55,10 @@ Defect Management Automation
 6. SAP Transactions Used
 
              T-Code       Purpose
-             ME21N 	       Create Purchase Order
+             ME21N 	   Create Purchase Order
              MIGO 	       Doing the Goods Receipt 
              QE51N 	   Record Results
-             QM01          Notification Creation  
+             QM01         Notification Creation  
              QA11 	       Usage Decision
 
 
