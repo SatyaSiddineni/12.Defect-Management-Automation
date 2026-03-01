@@ -3,11 +3,11 @@ Defect Management Automation
 
 1. About This Project
 
-            This project demonstrates an end-to-end Defect Management Automation process in SAP Quality Management (QM) integrated with Procurement and Production.
+            This project demonstrates an End-to-End Defect Management Automation process in SAP Quality Management (QM) integrated with Materials Management (MM) and Production Planning (PP).
 
-            The solution covers how defects identified during inspection processing are automatically converted into Quality Notifications, ensuring systematic corrective and preventive action (CAPA) tracking.
+            The solution automates the lifecycle from defect identification during inspection processing to automatic Quality Notification creation, corrective action tracking, and structured closure.
 
-            This project reflects real-time manufacturing and procurement quality scenarios handled by an SAP QM Functional Consultant
+            It reflects a real-time manufacturing quality control scenario handled by an SAP QM Functional Consultant.
    
 
 2. How to Use This Repository  
@@ -99,18 +99,28 @@ Defect Management Automation
 
 10. Roles & Responsibilities (SAP QM Functional Consultant)
 
-              ✔ Requirement Gathering
-              ✔ Blueprint Documentation
-              ✔ Configuration (SPRO)
-              ✔ Test Case Preparation
-              ✔ UAT Support
-              ✔ Hypercare Support
-              ✔ Defect Resolution
-              ✔ Documentation
+            In this project, responsibilities include:
+            
+                        Requirement gathering from Quality & Production teams
+                        Designing defect and notification structure
+                        Configuring inspection types & catalogs
+                        Enabling automation logic
+                        Supporting UAT & resolving issues
+                        End-user training
+                        Hypercare support post go-live
 
 
 ## Key Learning Outcomes
-- Understanding In-Process Inspection using Inspection Type 03
-- Importance of Inspection Points during manufacturing
-- Usage Decision impact on stock
-- Strong integration between QM and PP
+
+✔ End-to-end inspection processing
+✔ Defect catalog configuration
+✔ Automatic QM notification generation
+✔ CAPA lifecycle management
+✔ Integration between QM, MM & PP
+✔ Real-time business process automation
+
+
+
+🙌 Author
+
+Satyanarayana Siddineni SAP Functional Consultant
