@@ -37,7 +37,7 @@ Defect Management Automation
                         ↓
             Results Recording
                         ↓
-            Defect Recorded
+            Defect Recording
                         ↓
             QM Notification Auto-Creation
                         ↓
