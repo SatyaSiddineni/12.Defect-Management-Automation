@@ -3,7 +3,11 @@ Defect Management Automation
 
 1. About This Project
 
-            This project demonstrates the end-to-end defect management process in SAP QM — starting from defect detection during inspection, automatic QM Notification creation, task handling, corrective action tracking, and closure with reporting.
+            This project demonstrates an end-to-end Defect Management Automation process in SAP Quality Management (QM) integrated with Procurement and Production.
+
+            The solution covers how defects identified during inspection processing are automatically converted into Quality Notifications, ensuring systematic corrective and preventive action (CAPA) tracking.
+
+            This project reflects real-time manufacturing and procurement quality scenarios handled by an SAP QM Functional Consultant
    
 
 2. How to Use This Repository  
@@ -19,14 +23,19 @@ Defect Management Automation
 
             A manufacturing company receives defective raw materials from vendors and also detects in-process production defects.
 
-            The company wants:
-            
-                    Automatic QM Notification creation when defect is recorded
-                    Automatic task assignment to Quality team
-                    Integration with vendor evaluation
-                    CAPA tracking
-                    Email alerts
-                    Defect analytics report
+            During:
+
+                        Goods Receipt Inspection (01)
+                        In-Process Inspection (03)
+                        Final Inspection (04)
+
+            If defects are recorded in the inspection lot:
+
+                        → A QM Notification is automatically created
+                        → Tasks are assigned to responsible departments
+                        → Root cause analysis is performed
+                        → Corrective & Preventive Actions (CAPA) are tracked
+                        → Closure is monitored with proper approval
 
 
 4. End-to-End Process Flow
