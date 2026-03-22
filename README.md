@@ -101,7 +101,7 @@ Defect Management Automation
 
 8. Step-by-Step Transaction Execution
 
-            Please do refer Step by Step Transaction Execution.pdf.
+            Please do refer Defect Management Automation Step by Step Transaction Execution.pdf.
 
 
 9.  Project Structure
